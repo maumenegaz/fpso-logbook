@@ -9,7 +9,7 @@ Log keeping is not only a maritime tradition, but a legal requirement, as all t
 
 The design evolves around the usual workflow of log keeping: a clerk inputs log entries, specifying the date and time of the event, and the details. The digital logbook incorporates additional trust to the reporting, as one can take advantage of hashing (like in a blockchain) to ensure the sequence of events and reporting.
 
-Tamper-proof recording has two main advantages. The first is reducing liability, as the clerk will have a scientific way to prove the records are faithful to the input report. The second is enabling precise and automated operational timelines, providing insightful performance indicators in real time for the business owners. 
+Tamper-proof recording has two main advantages. The first is reducing liability, as the clerk will have a scientific way to prove the records are faithful to the input. The second is enabling precise and automated operational timelines, providing insightful performance indicators in real time for the business owners. 
 
 # Implementation
 
